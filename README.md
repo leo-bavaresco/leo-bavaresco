@@ -33,9 +33,9 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leo-bavaresco&show_icons=true&theme=dracula&locale=en" alt="leo-bavaresco" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=leo-bavaresco&show_icons=true&theme=dracula&locale=en&layout=compact" alt="leo-bavaresco" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=leo-bavaresco&show_icons=true&theme=dracula&locale=en" alt="leo-bavaresco" /></p>
+<p><img align="rght" src="https://github-readme-stats.vercel.app/api/top-langs?username=leo-bavaresco&show_icons=true&theme=dracula&locale=en&layout=compact" alt="leo-bavaresco" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leo-bavaresco&label=Profile%20views&color=0e75b6&style=flat" alt="leo-bavaresco" /> </p>
+<p align="buttom"> <img src="https://komarev.com/ghpvc/?username=leo-bavaresco&label=Profile%20views&color=0e75b6&style=flat" alt="leo-bavaresco" /> </p>
 
 

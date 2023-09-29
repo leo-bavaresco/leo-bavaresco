@@ -6,7 +6,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=leo-bavaresco&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 
 <p align="left"> 
@@ -43,4 +42,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leo-bavaresco&show_icons=true&theme=dracula&locale=en" alt="leo-bavaresco" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leo-bavaresco&label=Profile%20views&color=0e75b6&style=flat" alt="leo-bavaresco" /> </p>
+<img src="https://img.shields.io/static/v1?label=Overview&message=leo-bavaresco&color=f8efd4&style=for-the-badge&logo=GitHub">
+
 

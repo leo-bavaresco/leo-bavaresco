@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&vCenter=true&width=435&lines=Hi%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leo-bavaresco&label=Profile%20views&color=0e75b6&style=flat" alt="leo-bavaresco" /> </p>
 
 - 🌱 I’m currently learning **Python and Linux Server**
 
@@ -32,3 +31,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leo-bavaresco&show_icons=true&theme=dracula&locale=en&layout=compact" alt="leo-bavaresco" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leo-bavaresco&show_icons=true&theme=dracula&locale=en" alt="leo-bavaresco" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leo-bavaresco&label=Profile%20views&color=0e75b6&style=flat" alt="leo-bavaresco" /> </p>
+

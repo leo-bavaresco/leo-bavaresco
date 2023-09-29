@@ -2,7 +2,7 @@
 **leo-bavaresco/leo-bavaresco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&vCenter=true&width=435&lines=Hi%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Work+Sans&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leo-bavaresco&label=Profile%20views&color=0e75b6&style=flat" alt="leo-bavaresco" /> </p>
 

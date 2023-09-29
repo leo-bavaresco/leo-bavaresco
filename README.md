@@ -9,7 +9,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando como Supervisor de TI na <a href="https://dextel.com.br/">EMPRESA</a>
+- 💼 Trabalhando como Supervisor de TI na <a href="https://dextel.com.br/">Dextel Fibra</a>
 - 🌱 &nbsp; Aprendendo mais sobre Python e Linux Server
 
 

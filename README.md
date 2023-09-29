@@ -5,24 +5,40 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&vCenter=true&width=435&lines=Hi%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
 
 
-- 🌱 I’m currently learning **Python and Linux Server**
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 👨‍💻 All of my projects are available at [github.com/leo-bavaresco](github.com/leo-bavaresco)
+<p align="left"> 
+  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
 
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **leonardo.guido.bavaresco@hotmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/leobavaresco](www.linkedin.com/in/leobavaresco)
-
-- ⚡ Fun fact **I know a little bit of everything. In my computer technician course, I learned HTML, CSS, and a bit of databases. And in college, I learned a bit of C++**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/leobavaresco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leobavaresco" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/leobavaresco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leobavaresco" height="30" width="40" /></a>
-<a href="https://fb.com/leobavaresco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leobavaresco" height="30" width="40" /></a>
-<a href="https://instagram.com/leobavaresco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leobavaresco" height="30" width="40" /></a>
+  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+</p>
+
+<p align="left">
+  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
+
+  <a href="#" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h3>Sobre mim</h3>
+<h3>About me</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 💼 Trabalhando como Supervisor de TI na <a href="https://dextel.com.br/">Dextel Fibra</a>

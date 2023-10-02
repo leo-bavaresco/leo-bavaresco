@@ -24,7 +24,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leobavaresco/)
 [![Linkedin](https://img.shields.io/badge/linkedin-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leobavaresco/)
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:leonardo.guido.bavaresco@hotmail.com)
-<p align="buttom"> <img src="https://komarev.com/ghpvc/?username=leo-bavaresco&label=Profile%20views&color=0e75b6&style=flat" alt="leo-bavaresco" /> </p>
 ##
 
 

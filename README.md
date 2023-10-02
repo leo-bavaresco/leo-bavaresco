@@ -17,18 +17,16 @@
 
 ##
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=leo-bavaresco&show_icons=true&theme=dracula&locale=en" alt="leo-bavaresco" /></p>
-<p><img align="rght" src="https://github-readme-stats.vercel.app/api/top-langs?username=leo-bavaresco&show_icons=true&theme=dracula&locale=en&layout=compact" alt="leo-bavaresco" /></p>
-
-
-
-<br>
-
 ### How to Reach Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leobavaresco/)
 [![Linkedin](https://img.shields.io/badge/linkedin-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leobavaresco/)
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:leonardo.guido.bavaresco@hotmail.com)
 
 ##
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=leo-bavaresco&show_icons=true&theme=dracula&locale=en" alt="leo-bavaresco" /></p>
+<p><img align="rght" src="https://github-readme-stats.vercel.app/api/top-langs?username=leo-bavaresco&show_icons=true&theme=dracula&locale=en&layout=compact" alt="leo-bavaresco" /></p>
+
+
+
 
 

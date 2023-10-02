@@ -8,7 +8,7 @@
 
 - Explorando novas tecnologias e desenvolvendo soluções de software.
 - Trabalhando como Supervisor de TI na <a href="https://dextel.com.br/">Dextel Fibra</a>
-- &nbsp; Aprendendo mais sobre Python e Linux Server 🐍🐧
+- &nbsp;Aprendendo mais sobre Python e Linux Server 🐍🐧
 ##
 
 <h3 align="left">Languages and Tools:</h3>

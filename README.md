@@ -20,7 +20,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=leo-bavaresco&show_icons=true&theme=dracula&locale=en" alt="leo-bavaresco" /></p>
 <p><img align="rght" src="https://github-readme-stats.vercel.app/api/top-langs?username=leo-bavaresco&show_icons=true&theme=dracula&locale=en&layout=compact" alt="leo-bavaresco" /></p>
 
-##
+
 
 <br>
 

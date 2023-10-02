@@ -6,9 +6,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-- Explorando novas tecnologias e desenvolvendo soluções de software.
-- Trabalhando como Supervisor de TI na <a href="https://dextel.com.br/">Dextel Fibra</a>
-- Aprendendo mais sobre Python e Linux Server 🐍🐧
+- Exploring new technologies and developing software solutions.
+- Working as an IT Supervisor at <a href="https://dextel.com.br/">Dextel Fibra.</a>
+- Learning more about Python and Linux Server. 🐍🐧
 ##
 
 <h3 align="left">Languages and Tools:</h3>

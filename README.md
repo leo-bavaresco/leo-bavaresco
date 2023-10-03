@@ -9,6 +9,7 @@
 - Exploring new technologies and developing software solutions.
 - Working as an IT Supervisor at <a href="https://dextel.com.br/">Dextel Fibra.</a>
 - Learning more about Python and Linux Server. 🐍🐧
+- Aspiring Python Developer.
 ##
 
 <h3 align="left">Languages and Tools:</h3>
